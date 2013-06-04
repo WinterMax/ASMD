@@ -6,4 +6,4 @@ testing commit1
 testing commit2
 testing commit3
 testing commit4
-malidong
+malidong recognized
